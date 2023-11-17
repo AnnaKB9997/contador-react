@@ -1,8 +1,14 @@
-# React + Vite
+# Counter
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+The application was developed with three buttons that increase and decrease one by one, finally, the reset function to return to the number zero.
 
-Currently, two official plugins are available:
+## Technology
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+* HTML
+* CSS
+* JavaScript React
+
+# Preview
+<img width="576" alt="Captura de Tela 2023-11-16 às 21 51 21" src="https://github.com/AnnaKB9997/contador-react/assets/123194582/bd51c514-a1af-4d6d-a81b-5710bbc495d4">
+
+
