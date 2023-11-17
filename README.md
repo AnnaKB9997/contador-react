@@ -1,6 +1,6 @@
 # Counter with React
 
-The application was developed with three buttons that increase and decrease one by one, finally, the reset function to return to the number zero.
+The application was developed with three buttons that increase and decrease one by one, finally, the reset function to return to the number zero. Were used {useState} to manage the counter status.
 
 ## Technology
 
